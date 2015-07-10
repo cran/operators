@@ -1,6 +1,6 @@
-6768be8dc1f822d1a93e3dd16030d6af *DESCRIPTION
-d236b6377c973fd47f893943fcd1ad98 *LICENSE
-24676fa5b2ce74907d46cb02f60f5ae1 *NAMESPACE
+77d8633ed2cb25a06135d9dde8db6dfe *DESCRIPTION
+68158c1c0e92d5880bc9468d5ac23149 *LICENSE
+7d664e837430ad899a15370e1dae733b *NAMESPACE
 721a971a0eb79b6b0f6aa375e8a47d4f *R/etopt.R
 51c248962966cd971e0cd0449b73d9f0 *R/file.R
 27afb34e2b41cce83c4e25792ed3c4de *R/operators.R
@@ -27,7 +27,7 @@ b2106356790858e0ee9283bdf9bca55b *man/pipe.Rd
 a788a99ad5276c0463c21c0add99191b *man/withOption.Rd
 a40ddca0cc8e74c8c4ccf8511f97dcc2 *man/without.Rd
 f5f0af53337adbf796d705583818b635 *tests/testthat.R
-430a176608fd3c29a8cca893b5192ee0 *tests/testthat/test-but.R
+ed8bbfff99f96e964cf230fad1193415 *tests/testthat/test-but.R
 0b6a68081ee681504fe57a8f1e0ac54c *tests/testthat/test-notin.R
 cc668e10305338b041eaa05c1fc18a3f *tests/testthat/test-patternMatching.R
 81afc499758f38daac2fd413b6a17e96 *tests/testthat/test-repeat.R
